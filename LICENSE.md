@@ -1,4 +1,4 @@
-# 
+# automatic SQL Server Management Studio for PC | SQL Server Management Studio for Windows Addon | custom-scripts + schema-comparison is the best SQL Server Management Studio for PC
 
 
 
